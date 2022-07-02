@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neerajotwani23
 - 👀 I’m interested in C/C++ , Python , Object Oriented Programming
-- 🌱 I’m currently learning Object Oriented Programming in C++
-- 💞️ I’m looking to collaborate on Object Oriented Programming in C++
+- 🌱 I’m currently learning Object Oriented Programming in python
+- 💞️ I’m looking to collaborate on Object Oriented Programming in C++ and python
 - 📫 How to reach me Instagram, facebook neerajotwani23 (Email: neerajotwani23@gmail.com)
 - 
 
